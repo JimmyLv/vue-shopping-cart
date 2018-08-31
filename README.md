@@ -1,6 +1,6 @@
-# y
+# Vue Shopping Cart
 
-> y
+> This is a example.
 
 ## Build Setup
 
