@@ -1,0 +1,9 @@
+.product {
+  margin: 10px;
+}
+.product-code {
+  color: indianred;
+}
+.product-image > img {
+  width: 100px;
+}
